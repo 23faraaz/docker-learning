@@ -553,5 +553,4 @@ Planned extensions:
 
 This repository represents **learning by building, breaking, and fixing** — the same loop used in real engineering teams.
 
-If you are reviewing this as a recruiter or engineer:
-I’m happy to walk through any design decision, failure case, or implementation detail.
+
